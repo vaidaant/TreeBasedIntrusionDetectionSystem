@@ -31,12 +31,11 @@ Input webpage(Taking the top 15 features from the user and selecting models out 
 
 
 Same procedure but now the input is taken from the CSV file(input1,input2)
-
-![WhatsApp Image 2024-10-02 at 02 00 22_0d1806b7](https://github.com/user-attachments/assets/4791615c-3d63-453f-9f69-a6336ffed869)
+![WhatsApp Image 2024-10-02 at 02 00 22_0bc93476](https://github.com/user-attachments/assets/9b50cda2-24db-4097-80e8-fd76f0be3daf)
 
 Output webpages:
 
-![WhatsApp Image 2024-10-02 at 02 00 22_0bc93476](https://github.com/user-attachments/assets/9b50cda2-24db-4097-80e8-fd76f0be3daf)
+![WhatsApp Image 2024-10-02 at 02 00 22_0d1806b7](https://github.com/user-attachments/assets/4791615c-3d63-453f-9f69-a6336ffed869)
 
 Software Tools: VSCode,pycharm, python latest version should be installed
 
