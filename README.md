@@ -25,18 +25,18 @@ Input webpage(Taking the top 15 features from the user and selecting models out 
 5  PortScan
 
 6  WebAttack
-
-![WhatsApp Image 2024-10-02 at 02 00 22_0bc93476](https://github.com/user-attachments/assets/9b50cda2-24db-4097-80e8-fd76f0be3daf)
-
-![WhatsApp Image 2024-10-02 at 02 00 22_0d1806b7](https://github.com/user-attachments/assets/4791615c-3d63-453f-9f69-a6336ffed869)
-
-Same procedure but now the input is taken from the CSV file(input1,input2)
+![WhatsApp Image 2024-10-02 at 02 00 23_01db0781](https://github.com/user-attachments/assets/127d108b-bafd-4d40-9e17-c320cd1f8b4d)
 
 ![WhatsApp Image 2024-10-02 at 02 00 22_d2ecb876](https://github.com/user-attachments/assets/3b55a22f-d029-4e66-a5c6-92c2696c78e9)
 
+
+Same procedure but now the input is taken from the CSV file(input1,input2)
+
+![WhatsApp Image 2024-10-02 at 02 00 22_0d1806b7](https://github.com/user-attachments/assets/4791615c-3d63-453f-9f69-a6336ffed869)
+
 Output webpages:
 
-![WhatsApp Image 2024-10-02 at 02 00 23_01db0781](https://github.com/user-attachments/assets/127d108b-bafd-4d40-9e17-c320cd1f8b4d)
+![WhatsApp Image 2024-10-02 at 02 00 22_0bc93476](https://github.com/user-attachments/assets/9b50cda2-24db-4097-80e8-fd76f0be3daf)
 
 Software Tools: VSCode,pycharm, python latest version should be installed
 
