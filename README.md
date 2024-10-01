@@ -25,9 +25,11 @@ Input webpage(Taking the top 15 features from the user and selecting models out 
 5  PortScan
 
 6  WebAttack
-![WhatsApp Image 2024-10-02 at 02 00 23_01db0781](https://github.com/user-attachments/assets/127d108b-bafd-4d40-9e17-c320cd1f8b4d)
 
 ![WhatsApp Image 2024-10-02 at 02 00 22_d2ecb876](https://github.com/user-attachments/assets/3b55a22f-d029-4e66-a5c6-92c2696c78e9)
+![WhatsApp Image 2024-10-02 at 02 00 23_01db0781](https://github.com/user-attachments/assets/127d108b-bafd-4d40-9e17-c320cd1f8b4d)
+
+
 
 
 Same procedure but now the input is taken from the CSV file(input1,input2)
